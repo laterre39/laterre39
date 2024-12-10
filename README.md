@@ -1,13 +1,16 @@
-### Hi there, I'm Changil Kim - as Laterre <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Changil.Kim&section=header&reversal=false&animation=fadeIn)
+
+### Hi there, I'm Changil Kim - also known as Laterre <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
 ## I'm a Backend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, also interested in Fullstack and Devops !!
 
-> 안녕하세요, 저는 김창일입니다. 라테르라는 닉네임으로 활동합니다. 백엔드 개발자이며 풀스택 개발자에도 관심이 있습니다.
+> 🚀 안녕하세요, 저는 김창일입니다. 라테르라는 닉네임으로 활동합니다. 백엔드 개발자이며 풀스택 개발자와 데브옵스에 관심이 많습니다.
 
 <br/>
 
-<h2 align="center">📚 Stack of Trade</h2>
-<p align="center">
+<div>
+<h2 align="center">🛠️ Skills</h2>
+  <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -35,4 +38,42 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  </div>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=laterre39&show_icons=true&count_private=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=laterre39&show_icons=true&count_private=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=laterre39&show_icons=true&count_private=true&theme=catppuccin_latte" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=laterre39&layout=compact&count_private=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=laterre39&layout=compact&count_private=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laterre39&layout=compact&count_private=true&theme=catppuccin_latte" />
+</picture>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<p align="right">
+	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaterre39&count_bg=%23A020F0&title_bg=%2336454F&icon=furrynetwork.svg&icon_color=%23FFC0CB&title=README+VIEWS&edge_flat=true"/></a>
 </p>
