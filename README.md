@@ -74,6 +74,6 @@
 <br/>
 <br/>
 
-<p align="right">
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaterre39&count_bg=%23A020F0&title_bg=%2336454F&icon=furrynetwork.svg&icon_color=%23FFC0CB&title=README+VIEWS&edge_flat=true"/></a>
-</p>
+<div align="right">
+  ![visitor badge]([https://visitor-badge.laobi.icu/badge?page_id=laterre39.laterre39](https://visitor-badge.laobi.icu/badge?page_id=laterre39.laterre39&left_color=%2339c5bb&right_color=%23E83B88&left_text=Level%20Up!%20[Hits]&format=true)
+</div>
