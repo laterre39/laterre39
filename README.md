@@ -70,6 +70,9 @@
 </picture>
 </div>
 
-<div align="right">
+<br/>
+<br/>
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=laterre39.laterre39&left_color=%2339c5bb&right_color=%23E83B88&left_text=Level%20Up!%20[Hits]&format=true" alt="visitor badge" />
 </div>
